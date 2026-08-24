@@ -1,7 +1,4 @@
 # CS-305-Software-Security
-Portfolio artifacts from CS 305 Software Security
-
-# CS-305-Software-Security
 
 ## Artemis Financial – Practices for Secure Software
 
